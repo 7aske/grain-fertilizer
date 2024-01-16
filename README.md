@@ -7,4 +7,4 @@ that other Fertilizer implementations should "inherit" and provide extensibility
 
 ## Implementations
 
-* Tomcat [grain-tomcat-fertilizer](https://github.com/7aske/grain-tomcat-fertilizer)
+* Tomcat [grain-fertilizer-tomcat](https://github.com/7aske/grain-fertilizer-tomcat)
